@@ -9,7 +9,7 @@ st.title("❤️ Life and Love vs Time 📈")
 
 custom_message = "No matter how the life gets, My love will always grow ❤️"
 
-if st.button("Start Graphs"):
+if st.button("Start"):
         life_data = []
         love_data = []
         time_data = []
